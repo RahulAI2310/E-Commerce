@@ -1,4 +1,4 @@
-# 🛍️ My E-Commerce Project
+ # 🛍️ My E-Commerce Project
 
 A modern, responsive **E-Commerce web application** built with **Next.js 13 (App Router)**, **Tailwind CSS**, and **Heroicons**.  
 This project demonstrates a clean UI with reusable components such as **Navbar, Sidebar, Product Cards, Pagination, and Rating system**.  
@@ -53,7 +53,7 @@ my-ecomm/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/my-ecomm.git
+   git clone https://github.com/RahulAI2310/my-ecomm.git
    cd my-ecomm
 npm install
 
